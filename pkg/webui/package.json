@@ -1,0 +1,48 @@
+{
+    "name": "bhojpur-congress-web",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "@ant-design/icons": "4.6.2",
+      "@craco/craco": "6.1.1",
+      "antd": "4.15.5",
+      "braft-editor": "^2.3.9",
+      "bhojpur-js-sdk": "^0.0.4",
+      "copy-to-clipboard": "^3.3.1",
+      "craco-less": "1.17.1",
+      "i18next": "^19.8.9",
+      "moment": "^2.29.1",
+      "react": "^17.0.2",
+      "react-device-detect": "^1.17.0",
+      "react-dom": "^17.0.2",
+      "react-i18next": "^11.8.7",
+      "react-router-dom": "^5.1.2",
+      "react-scripts": "4.0.3"
+    },
+    "scripts": {
+      "start": "set PORT=11001 && craco start",
+      "build": "craco build",
+      "test": "craco test",
+      "eject": "craco eject",
+      "analyze": "source-map-explorer 'build/static/js/*.js'"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app"
+      ]
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all",
+        "ie 9, ie 10, ie 11"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version",
+        "ie 9, ie 10, ie 11"
+      ]
+    }
+  }

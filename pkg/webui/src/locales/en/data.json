@@ -1,0 +1,54 @@
+{
+    "account": {
+      "My Account": "My Account",
+      "Sign In": "Sign In",
+      "Sign Out": "Sign Out",
+      "Sign Up": "Sign Up"
+    },
+    "conference": {
+      "Address": "Address",
+      "Carousels": "Carousels",
+      "Content": "Content",
+      "Default item": "Default item",
+      "End date": "End date",
+      "Full name": "Full name",
+      "Introduction text": "Introduction text",
+      "Language": "Language",
+      "Local image upload is disallowed. Please go to \\\"Resources\\\" to upload images and paste the image URL to the text editor. You can choose \\\"Media\\\" -\u003e left-bottom corner \\\"+Add network resource\\\", then paste the image URL into the box": "Local image upload is disallowed. Please go to \\\"Resources\\\" to upload images and paste the image URL to the text editor. You can choose \\\"Media\\\" -\u003e left-bottom corner \\\"+Add network resource\\\", then paste the image URL into the box",
+      "Location": "Location",
+      "Menu": "Menu",
+      "Organizer": "Organizer",
+      "Start date": "Start date",
+      "Title": "Title"
+    },
+    "general": {
+      "Action": "Action",
+      "Add": "Add",
+      "Conferences": "Conferences",
+      "Created time": "Created time",
+      "Delete": "Delete",
+      "Edit": "Edit",
+      "Home": "Home",
+      "Name": "Name",
+      "Owner": "Owner",
+      "Preview": "Preview",
+      "Resources": "Resources",
+      "Save": "Save",
+      "Status": "Status",
+      "Submissions": "Submissions"
+    },
+    "submission": {
+      "Authors": "Authors",
+      "Conference": "Conference",
+      "File upload": "File upload",
+      "PDF file": "PDF file",
+      "Sub type": "Sub type",
+      "Title": "Title",
+      "Type": "Type",
+      "Word file": "Word file"
+    },
+    "token": {
+      "Edit Conference": "Edit Conference",
+      "Edit Submission": "Edit Submission"
+    }
+  }
