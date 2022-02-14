@@ -5,9 +5,9 @@ go 1.17
 require (
 	github.com/aliyun/aliyun-oss-go-sdk v2.1.9+incompatible
 	github.com/bhojpur/application v0.0.4
-	github.com/bhojpur/dbm v0.0.1
+	github.com/bhojpur/dbm v0.0.3
 	github.com/bhojpur/logger v0.0.3
-	github.com/bhojpur/web v0.0.4
+	github.com/bhojpur/web v0.0.5
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/pkg/errors v0.9.1
 )
@@ -41,7 +41,6 @@ require (
 	github.com/prometheus/procfs v0.6.0 // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18 // indirect
-	github.com/syndtr/goleveldb v1.0.0 // indirect
 	golang.org/x/crypto v0.0.0-20220128200615-198e4374d7ed // indirect
 	golang.org/x/mod v0.5.0 // indirect
 	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
